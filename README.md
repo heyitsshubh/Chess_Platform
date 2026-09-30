@@ -26,6 +26,18 @@ The monorepo is managed with **pnpm** and orchestrated by **Turborepo** for para
 
 ---
 
+## 📱 Application Screenshots
+
+<div align="center">
+
+| Lobby & Matchmaking Dashboard | Interactive Live Game & Move Validation |
+| :---: | :---: |
+| <img src="docs/screenshots/lobby.jpg" width="340" alt="Lobby Screen" /> | <img src="docs/screenshots/game.jpg" width="340" alt="Live Game Screen" /> |
+
+</div>
+
+---
+
 ## Architecture
 
 ```
